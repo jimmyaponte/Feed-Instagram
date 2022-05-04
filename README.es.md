@@ -12,6 +12,7 @@ Crea un archivo `index.html` con [la estructura básica de HTML](http://content.
 
 ```sh
 $ pip3 install flask && python3 server.py
+
 ```
 
 - Puedes crear tantos archivos HTML cómo desees
